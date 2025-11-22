@@ -40,8 +40,8 @@ Linear-time sorting for bounded integer ranges.
 ---
 
 ## 📊 Research Poster  
-Upload **Time-complex.png** to the root of your repository and it will display here:
 
+---
 
 <p align="center">
   <img src="Time-complex.png" alt="Sorting Algorithm Energy & Time Poster" width="650" />
